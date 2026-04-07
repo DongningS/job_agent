@@ -1,4 +1,4 @@
-# 🤖 Autonomous Job Search & Resume Optimisation Agent
+# Autonomous Job Search & Resume Optimisation Agent
 
 A fully autonomous Python agent that:
 1. Reads your resume
