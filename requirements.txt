@@ -1,0 +1,12 @@
+# ── Core (original) ───────────────────────────────────────────────────────────
+openai>=1.0.0
+anthropic>=0.20.0
+python-docx
+python-dotenv
+
+# ── Job sources ───────────────────────────────────────────────────────────────
+# Source B: python-jobspy (scrapes Indeed, LinkedIn, Glassdoor, ZipRecruiter)
+python-jobspy>=1.1.0
+
+# Source C & D: HTTP requests (used by jsearch + llm_careers page fetcher)
+requests>=2.31.0
